@@ -11,9 +11,9 @@ description: Portfolio and personal blog of John Doe.
 
 # specify the list of custom menus that you want to show in the top navbar.
 # they will be separated by a divider from the main menus.
-customMenus:
-- name: Docs
-  url: https://toha-guides.netlify.app/posts/
+#customMenus:
+#- name: Docs
+#  url: https://toha-guides.netlify.app/posts/
 
 # Specify OpenGraph Headers
 openGraph:
@@ -21,4 +21,4 @@ openGraph:
   type: website
   description: Resume of Wiebe Wiersema.
   image: images/author/wiebe.jpg
-  url: https://hugo-toha.github.io
+  url: https://wiebe-resume.netlify.app/

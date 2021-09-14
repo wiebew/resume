@@ -47,6 +47,10 @@ socialLinks:
   icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/wiebewiersema/"
 
+- name: Springest
+  icon: ""
+  url: "https://www.springest.nl/u/wiebe-wiersema"
+
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
 # You can also show a circular bar indicating the level of expertise on a certain skill

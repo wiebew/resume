@@ -1,0 +1,17 @@
+# some information about you
+name: "Wiebe Wiersema"
+nickname: "Wiebe"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+image: "images/author/wiebe.jpg"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "w.wiersema@devon.nl"
+  phone: "+31611569657"
+
+# some summary about what you do
+summary:
+  - I change organisations and teams
+  - I am an expert on implementing Devops in your organization
+  - I love technology
+  - My passion is to bring back the smile on faces of the engineers

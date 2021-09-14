@@ -1,0 +1,93 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Lead Consultant
+# your company information
+company:
+  name: Devon
+  url: "https://www.devon.nl"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/resume.pdf"
+
+# a summary about you
+summary: 'Wiebe is enthusiastic and passionate about putting a smile on the face of the engineers by reducing the waste in the IT Processes and dramatically improving the output of the (IT) Value Streams. 
+
+
+He likes to take the lead in improving that performance and to build a motivated team, that is able to do the system integration, scripting and configuring necessary for a fully automated frictionless continuous integration & delivery pipeline.
+
+
+He uses Lean, Agile, Architecture and DevOps thinking to get a fast return on investment and to provide value to the organization as soon as possible.
+
+
+The past twenty years he has been involved with system development, IT consulting and architecture, starting with his own company and later on in the IT industry as senior-programmer, project-leader and gradually evolved towards software, solution and enterprise architectures, delivery process engineering, software development factories and coaching.
+
+
+Wiebe comes from an expat background and performs very well in international settings and has good language skills with several foreign languages.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "example@gmail.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/wiebew"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/wiebewiersema/"
+
+# Show your badges
+# You can show your verifiable certificates from https://www.credly.com.
+# You can also show a circular bar indicating the level of expertise on a certain skill
+badges:
+- type: certification
+  name: Certified DevOps Foundation
+  url: "https://www.devopsinstitute.com/"
+  badge: "https://www.devopsinstitute.com/wp-content/uploads/2021/06/DevOpsFoundationBadge.png"
+
+- type: certification
+  name: Certified DevOps Leader
+  url: "https://www.devopsinstitute.com/"
+  badge: "https://devopsinstitute.com/wp-content/uploads/2021/05/DevOpsLeaderBadge-2-3.png"
+
+- type: certification
+  name: 'Microsoft Certified Azure Fundamentals'
+  url: "https://www.credly.com/org/microsoft-certification/badge/microsoft-certified-azure-fundamentals"
+  badge: "https://images.credly.com/size/340x340/images/6a254dad-77e5-4e71-8049-94e5c7a15981/azure-fundamentals-600x600.png"
+
+- type: soft-skill-indicator
+  name: Inspirator
+  percentage: 90
+  color: orange
+
+- type: soft-skill-indicator
+  name: Team Work
+  percentage: 90
+  color: yellow
+
+- type: soft-skill-indicator
+  name: Impact
+  percentage: 90
+  color: green
+
+- type: soft-skill-indicator
+  name: Result Oriented
+  percentage: 100
+  color: pink
+
+# you can also provide color code instead of the color name
+# - type: soft-skill-indicator
+#   name: Example 1
+#   percentage: 75
+#   color: "#00adb5"
